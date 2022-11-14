@@ -1,0 +1,52 @@
+1. The accuracy of the Bayesian classifier on the fakenews dataset is 20%
+2. The accuracy of the Bayesian classifier on teh ClimateChange dataset is 88.8%
+
+fakenews dataset in the last iteration:
+    Fake Top 10 words:
+        the
+        on
+        and
+        of
+        a
+        in
+        that
+        for
+        's
+        is
+
+    True Top 10 words:
+        the
+        to
+        of
+        a
+        and
+        in
+        's
+        on
+        for
+        that
+
+ClimateChange dataset in the last iteration:
+    Fake Top 10 words:
+        the
+        of
+        and
+        to
+        is
+        a
+        that
+        in
+        climate
+        are
+
+    True Top 10 words:
+        the
+        and
+        of
+        to
+        in
+        is
+        a
+        climate
+        that
+        are
