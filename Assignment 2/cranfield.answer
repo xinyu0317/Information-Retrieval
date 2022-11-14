@@ -1,0 +1,15 @@
+My weighting scheme is nxx.bpx.
+The length of the query string is not long, I think this is the best probability weight, it should be effective
+
+
+cranfield.tfc.tfx.output
+Top 10 precision: 0.1756 recall: 0.3216
+Top 50 precision: 0.0746 recall: 0.5776
+Top 100 precision: 0.0451 recall: 0.6787
+Top 500 precision: 0.0122 recall: 0.8764
+
+cranfield.nxx.bpx.output
+Top 10 precision: 0.1516 recall: 0.2800
+Top 50 precision: 0.0704 recall: 0.5434
+Top 100 precision: 0.0425 recall: 0.6406
+Top 500 precision: 0.0122 recall: 0.8728
